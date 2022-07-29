@@ -1,0 +1,6 @@
+{
+    "env": {
+        "MONGO_ATLAS_PPW": "gavi755",
+        "JWT_KEY": "secret"
+    }
+}
